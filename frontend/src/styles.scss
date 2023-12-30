@@ -3,6 +3,10 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+body {
+  @apply flex flex-col min-h-screen;
+}
+
 h1 {
   @apply text-xl;
   @apply sm:text-3xl;
