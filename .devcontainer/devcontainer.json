@@ -1,5 +1,5 @@
 {
-    "name": "Loco",
+    "name": "LimpidCrypto",
     "dockerComposeFile": "docker-compose.yml",
     "service": "app",
     "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
